@@ -1,0 +1,8 @@
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+table tr td:last-child {
+  width: 200px;
+}
